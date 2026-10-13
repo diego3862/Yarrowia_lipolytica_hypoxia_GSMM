@@ -1,0 +1,10 @@
+ipykernel
+PyYAML
+pathlib
+numpy
+pandas
+cobra
+cvxpy
+matplotlib
+tqdm
+
